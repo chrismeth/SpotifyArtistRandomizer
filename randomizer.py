@@ -8,7 +8,6 @@ import requests
 os.environ["SPOTIPY_CLIENT_ID"] = ""
 os.environ["SPOTIPY_CLIENT_SECRET"] = ""
 os.environ["USER"] = ""
-os.environ["PLAYLISTS"] = ""
 SERVER_PORT = 14523
 os.environ["SPOTIPY_REDIRECT_URI"] = "http://localhost:{}".format(SERVER_PORT)
 
