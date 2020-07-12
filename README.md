@@ -1,11 +1,5 @@
-<p align="center"><img alt="SpotifyRandomizer" src="SpotifyRandomizer.png" width="350"/></p> <!-- Gross HTML because of GitHub's markdown -->
-Truly randomize your Spotify playlists. This program creates a Spotify playlist from an existing one, with it's tracks placed in a random order, saved under a new name.
-
-![image](https://user-images.githubusercontent.com/30472563/39407829-33e9b202-4bd5-11e8-9ec1-7a21788163a1.png)
-<sup>*\* An example of running the program.*</sup>
-
-![image](https://user-images.githubusercontent.com/30472563/39255472-4c0c4f20-48b5-11e8-9d36-3adc0bed5f0a.png)
-<sup>*\* The web server after authenticating. This only needs to be done once (per user).*</sup>
+This program creates a Spotify playlist from every followed artist's top 10 tracks.
+It was inspired based on the SpotifyRandomizer (https://github.com/DanielsWrath/SpotifyRandomizer).
 
 ## Required packages
 
